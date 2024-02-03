@@ -40,6 +40,8 @@
 
 ## 规则下载
 
+- **Krabs自定义规则（DIRECT/PROXY/REJECT）规则**：
+  - [https://raw.githubusercontent.com/KrabsWong/shadowrocket-rules/master/sr_krabs_list.module](https://raw.githubusercontent.com/KrabsWong/shadowrocket-rules/master/sr_krabs_list.module)
 - **直链（DIRECT）规则**：
   - [https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_direct_list.module](https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_direct_list.module)
   - [https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_direct_list.module](https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_direct_list.module)
