@@ -1,0 +1,5 @@
+#!name=krabs_list
+#!homepage=https://github.com/KrabsWong/shadowrocket-rules
+#!desc=Krabs own rules
+[Rule]
+DOMAIN-SUFFIX,coze.com,PROXY
